@@ -1,0 +1,1 @@
+print("Summer is here!");
